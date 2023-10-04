@@ -5,3 +5,6 @@ tech blogs and learning
   - memlabs(framework to find memory leaks in js code) - https://engineering.fb.com/2022/09/12/open-source/memlab/
 
 - Airbnb front-end - https://medium.com/airbnb-engineering/tagged/front-end-development
+- Canva
+- Uber
+- Facebook
