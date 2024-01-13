@@ -49,6 +49,8 @@ tech blogs and learning
     - https://slack.engineering/client-consistency-at-slack-beyond-libslack/
     - https://slack.engineering/scaling-slacks-job-queue/
     - https://slack.engineering/flannel-an-application-level-edge-cache-to-make-slack-scale/
+ 
+- Notion - https://www.notion.so/blog/topic/tech
 
 
 # Talks -
