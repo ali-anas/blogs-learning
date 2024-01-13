@@ -5,6 +5,7 @@ tech blogs and learning
   - all blogs - https://www.figma.com/blog/engineering/
   - improving fps - https://www.figma.com/blog/improving-scrolling-comments-in-figma/
   - webassembly - https://www.figma.com/blog/webassembly-cut-figmas-load-time-by-3x/
+- Sketch blogs - https://www.sketch.com/blog/inside-sketch/
 
 - web.dev - https://web.dev/
 
