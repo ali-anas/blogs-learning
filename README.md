@@ -51,6 +51,7 @@ tech blogs and learning
     - https://slack.engineering/flannel-an-application-level-edge-cache-to-make-slack-scale/
  
 - Notion - https://www.notion.so/blog/topic/tech
+    - implementing logging and error reporting in nextjs site - Observing NextJS in Production - Jake Teton-Landis
 
 
 # Talks -
