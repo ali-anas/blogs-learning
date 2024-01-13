@@ -1,6 +1,10 @@
 # blogs-learning
 tech blogs and learning
 
+- figma - 
+  - all blogs - https://www.figma.com/blog/engineering/
+  - improving fps - https://www.figma.com/blog/improving-scrolling-comments-in-figma/
+
 - web.dev - https://web.dev/
 
 - facebook web - https://engineering.fb.com/category/web/
