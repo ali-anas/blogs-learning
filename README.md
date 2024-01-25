@@ -54,6 +54,9 @@ tech blogs and learning
 - Notion - https://www.notion.so/blog/topic/tech
     - implementing logging and error reporting in nextjs site - https://jake.tl/notes/2021-04-04-nextjs-preload-hack
 
+- Groww
+    - https://tech.groww.in/
+
 
 # Talks -
 
