@@ -1,6 +1,10 @@
 # blogs-learning
 tech blogs and learning
 
+- Learning Collaborative Softwares and CRDTs -
+  - Conclave case study - [Collaborative Text Editor](https://conclave-team.github.io/conclave-site/)
+  - CRDT - [Martin Kleppmann](https://youtu.be/x7drE24geUw?si=vNkEQn4gFFdqFXBD)
+
 - Web Storage - 
   - storage for web [web.dev](https://web.dev/articles/storage-for-the-web)
 
