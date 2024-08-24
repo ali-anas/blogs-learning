@@ -1,6 +1,9 @@
 # blogs-learning
 tech blogs and learning
 
+- Web Storage - 
+  - storage for web [web.dev](https://web.dev/articles/storage-for-the-web)
+
 - figma - 
   - all blogs - https://www.figma.com/blog/engineering/
   - improving fps - https://www.figma.com/blog/improving-scrolling-comments-in-figma/
