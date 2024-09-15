@@ -64,6 +64,9 @@ tech blogs and learning
 - Groww
     - https://tech.groww.in/
 
+- Coursera
+  - https://medium.com/coursera-engineering/frontend/home
+
 
 # Talks -
 
