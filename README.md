@@ -66,7 +66,39 @@ tech blogs and learning
 
 - Coursera
   - https://medium.com/coursera-engineering/frontend/home
+ 
+- Grab
+  - https://engineering.grab.com/categories/engineering/
 
+- Zoom
+  - https://developers.zoom.us/blog/
+ 
+- Zomato
+  - https://blog.zomato.com/category/technology
+
+# Paytech Companies
+- Stripe
+  - https://stripe.com/blog/engineering
+ - Paypal
+    - https://medium.com/paypal-tech
+- RazorPay
+  - https://engineering.razorpay.com/
+
+- Cred
+  - https://engineering.cred.club/
+ 
+- Chime
+  - https://careers.chime.com/en/life-at-chime/engineering-at-chime/elevating-the-peer-to-peer-payment-experience-with-animated-buttons-react-native-animated-masked-view/
+ - Block(Formerly Square)
+   - https://developer.squareup.com/blog/archive/category/engineering/
+  - Mastercard
+      - https://developer.mastercard.com/blog/
+
+# Crypto
+  - Binance
+    - https://www.binance.com/en/blog
+  - Coinbase
+    - https://medium.com/the-coinbase-blog/tagged/engineering
 
 # Talks -
 
